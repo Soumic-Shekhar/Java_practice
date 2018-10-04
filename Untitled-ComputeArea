@@ -1,0 +1,4 @@
+literals:
+
+a = b + 7.5 // given value...
+c = x
